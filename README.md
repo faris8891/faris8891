@@ -21,7 +21,7 @@ Currently working on MyMart (React project)
 
 <div>
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=faris8891&theme=radical&hide=glsl,python"/>
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=faris8891&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=faris8891&&show_icons=true&theme=radical&line_height=27&v=5" alt="Faris's GitHub Stats"/>
 <div>
 
  
