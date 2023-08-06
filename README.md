@@ -17,8 +17,14 @@ Currently working on MyMart (React project)
 - Leaning Web Design with Figma
 
 
-## <a href="https://github.com/Neel2904">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faris8891&theme=radical&hide=glsl,python" />
-</a>
+## <a href="https://github.com/faris8891"></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=faris8891&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=faris8891&theme=radical&hide=glsl,python"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=faris8891&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats"/>
+<div>
+
+ 
+
+
+
