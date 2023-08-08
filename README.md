@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salmanulfaris.villoor@gmail.com)](mailto:salmanulfaris.villoor@gmail.com)
 
 I am Faris. I am from Malapuram,Kerala. I love to do web development and open to learning new technologies.
-Currently working on MyMart (React project)
+Currently working on Bridgeon solution LMS.
 
 ## 💻 Projects
 * [MyMart (e commerce for supermarket, Node js APIs)](https://github.com/faris8891/My-Mart)
@@ -14,7 +14,14 @@ Currently working on MyMart (React project)
 ## ⚡ Technologies 
 - Front-end development using **React, HTML, Javascript, CSS, Bootstrap**
 - Backend development using **Node.js, MongoDB**
-- Leaning Web Design with Figma
+- Leaning Web Design with Figma and Photoshop.
+
+## <a href="https://github.com/faris8891"></a>
+
+<div>
+    <img align=top src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=faris8891&&show_icons=true&theme=radical&line_height=27&v=5" alt="Faris's GitHub Stats"/>
+<div>
 
 
 ## <a href="https://github.com/faris8891"></a>
