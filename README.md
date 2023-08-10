@@ -19,14 +19,6 @@ Currently working on Bridgeon solution LMS.
 ## <a href="https://github.com/faris8891"></a>
 
 <div>
-    <img align=top src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=faris8891&&show_icons=true&theme=radical&line_height=27&v=5" alt="Faris's GitHub Stats"/>
-<div>
-
-
-## <a href="https://github.com/faris8891"></a>
-
-<div>
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=faris8891&theme=radical&hide=glsl,python"/>
     <img align=top src="https://github-readme-stats.vercel.app/api?username=faris8891&&show_icons=true&theme=radical&line_height=27&v=5" alt="Faris's GitHub Stats"/>
 <div>
