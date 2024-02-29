@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Salmanul Faris from Kerala<br><br>- 🔭 I’m working as MERN Stack developer<br>- 📚 I'm currently learning AWS</p>
+<p align="left">I'm Salmanul Faris from Kerala<br><br>- 🔭 I’m working as MERN Stack developer<br>- 📚 I'm currently learning TypeScript</p>
 
 ###
 
